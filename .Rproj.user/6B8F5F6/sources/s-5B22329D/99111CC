@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586523369689.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "99111CC",
+    "lastKnownWriteTime" : 8533869541156728880,
+    "last_content_update" : 1586523369689,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8EDFE17C",
+        "caption" : "StudentsPerformance",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=StudentsPerformance&cache_key=8EDFE17C",
+        "displayedObservations" : 1000,
+        "environment" : "",
+        "expression" : "StudentsPerformance",
+        "object" : "StudentsPerformance",
+        "preview" : 0,
+        "totalObservations" : 1000,
+        "variables" : 8
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

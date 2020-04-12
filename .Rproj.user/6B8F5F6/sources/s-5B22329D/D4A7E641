@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586523328395.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1193224745",
+    "id" : "D4A7E641",
+    "lastKnownWriteTime" : 1586681332,
+    "last_content_update" : 1586681332623,
+    "path" : "D:/codebase/students perfomance/Analyse.r",
+    "project_path" : "Analyse.r",
+    "properties" : {
+        "cursorPosition" : "150,18",
+        "scrollLine" : "132",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
